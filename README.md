@@ -11,7 +11,7 @@ There are no commands or configurations needed for InstaWear. Simply pick up clo
 
 
 ## Permissions
-  -- instawear.use - Allows players to use InstaWear to automatically wear clothing items.
+  - instawear.use - Allows players to use InstaWear to automatically wear clothing items.
 
 ## Configuration
 
@@ -26,4 +26,4 @@ There are no commands or configurations needed for InstaWear. Simply pick up clo
 }
 ```
 
- -- RequirePermission - If true, users must have the instawear.use permission
+ - RequirePermission - If true, users must have the instawear.use permission
